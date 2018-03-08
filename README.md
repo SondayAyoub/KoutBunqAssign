@@ -4,9 +4,9 @@ A simple 'chat' application using PHP as backend and JQuery as frontend with HTM
 
 # Technologies used:
 
-Backend : PHP
-Frontend : JQuery (Javascript)
-Database : SQLite
+- Backend : PHP
+- Frontend : JQuery (Javascript)
+- Database : SQLite
 
 # Folder Structure
 
